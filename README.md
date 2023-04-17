@@ -14,5 +14,3 @@ ii. Any user may create and manage groups which can be used to share tasks withi
 user who creates a group automatically owns this group and can then also invite other users (or
 remove them). 
 
-
-[![frontend.png](https://i.postimg.cc/sgBNn31h/frontend.png)](https://postimg.cc/k2msG3QJ)
