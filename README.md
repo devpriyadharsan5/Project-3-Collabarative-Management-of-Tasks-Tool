@@ -1,4 +1,4 @@
-# Project-3-Collabarative-Management-of-Tasks-Tool
+# CS615 Project-3-Collabarative-Management-of-Tasks-Tool
 
 You are responsible for implementing the following user stories for a tool that allows for the collaborative
 management of tasks:
