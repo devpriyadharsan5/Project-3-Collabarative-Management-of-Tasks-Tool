@@ -14,21 +14,3 @@ ii. Any user may create and manage groups which can be used to share tasks withi
 user who creates a group automatically owns this group and can then also invite other users (or
 remove them). 
 
-
-This is a collaborative project management tool designed to streamline team tasks and improve communication.
-
-The application is built using modern web technologies, including ReactJS, Node.js, Express.js, and MongoDB.
-
-Users can create groups and assign tasks to members, while also having the ability to update or delete their assigned tasks.
-
-The owner of the application has complete control over the management of tasks and groups.
-
-Authentication is handled using Firebase, ensuring secure access to the application.
-
-The user interface is designed using Bootstrap, HTML, CSS, and JavaScript.
-
-The application's architecture is structured using a REST API, facilitating data management and persistency.
-
-The README file provides detailed instructions on how to run and use the application.
-
-To get started, simply clone the repository, install the necessary dependencies, and follow the instructions in the README file.
