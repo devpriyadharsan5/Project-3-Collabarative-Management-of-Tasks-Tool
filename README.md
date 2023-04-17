@@ -14,6 +14,13 @@ ii. Any user may create and manage groups which can be used to share tasks withi
 user who creates a group automatically owns this group and can then also invite other users (or
 remove them). 
 
+<h2>Group 3 :</h2>
+<ol>
+<li>Devpriyadharsan Balan Saravanan (22250355)</li>
+<li>Veera Bahu Muthu Kumaran (22250955)</li>
+<li>Lida Elsa Chacko (22250474)</li>
+</ol>
+
 # Introduction 
 **Collaborative Management of Tasks Tool** is designed to assist teams in a more efficient way by managing their projects by splitting tasks among team members and assigning them to specific people or groups. The application allows you to create groups to which you can assign various tasks simply by using the group name or ID. The user has the ability to update or delete the tasks assigned to them, while the application's owner has complete control over it.
 	
