@@ -33,7 +33,7 @@ The application's frontend is designed using React JS, a popular JavaScript tool
 # How to Use
 <ol>
 <li>Clone the repo. Download and install <b>MongoDB</b></li>
-<li>Go to command prompt, change directory to directory of repository and type <b>npm run install</b></li>
-<li>Then type <b> npm run server </b> </li>
-<li>Atlast type <b> npm run start </b> </li>
+<li>Go to command prompt, change directory to directory of repository and type <b>npm run install</b> and run it</li>
+<li>Then type <b> npm run server </b>and run it</li>
+<li>Now, Open a new command prompt, change directory to directory of repository and type <b> npm run start </b>and run it </li>
 </ol>
